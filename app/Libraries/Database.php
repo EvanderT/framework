@@ -8,7 +8,7 @@ class Database
     private $usuario = 'root';
     private $senha = '';
     private $banco = 'framework';
-    private $porta = '4306';
+    private $porta = '3306';
     private $dbh;
     private $stmt;
 
